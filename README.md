@@ -6,7 +6,7 @@ MindSpace is a guided meditation and mindfulness app designed to help users enha
 
 
 
-Features
+# Features
 
 
 
